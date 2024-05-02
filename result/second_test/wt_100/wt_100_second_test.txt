@@ -1,0 +1,38 @@
+Date test taken : 2-4-2024 11-13-24
+Time taken to enstablish 100 connection: 283
+Total connection : 100
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 491
+Maximal Latency: 2919
+Average Latency: 1794.0359
+P90 Latency: 2428
+Date test Finish : 2-4-2024 11-13-28
+Directory 'result/second_test/wt_100' created!
+Data saved to result/second_test/wt_100/test_wt_100_raw_response_time_output_1714623208306.csv
+
+Date test taken : 2-4-2024 11-17-12
+Time taken to enstablish 100 connection: 297
+Total connection : 100
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 475
+Maximal Latency: 2820
+Average Latency: 1739.4042
+P90 Latency: 2427
+Date test Finish : 2-4-2024 11-17-15
+Directory 'result/second_test/wt_100' already exists.
+Data saved to result/second_test/wt_100/wt_100_raw_response_time_output_1714623435907.csv
+
+Date test taken : 2-4-2024 11-22-25
+Time taken to enstablish 100 connection: 385
+Total connection : 100
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 487
+Maximal Latency: 2774
+Average Latency: 1802.8742
+P90 Latency: 2473
+Date test Finish : 2-4-2024 11-22-28
+Directory 'result/second_test/wt_100' already exists.
+Data saved to result/second_test/wt_100/wt_100_raw_response_time_output_1714623748915.csv

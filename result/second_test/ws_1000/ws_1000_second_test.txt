@@ -1,0 +1,38 @@
+Date test taken : 1-4-2024 23-26-6
+Time taken to enstablish 1000 connection: 573
+Total connection : 1000
+Total Request: 100000
+Request Success: 100%
+Minimal Latency: 983
+Maximal Latency: 2160
+Average Latency: 1974.02704
+P90 Latency: 2125
+Date test Finish : 1-4-2024 23-26-10
+Directory 'result/second_test/ws_1000' created!
+Data saved to result/second_test/ws_1000/ws_1000_raw_response_time_output_1714580770156.csv
+
+Date test taken : 1-4-2024 23-27-20
+Time taken to enstablish 1000 connection: 1305
+Total connection : 1000
+Total Request: 100000
+Request Success: 100%
+Minimal Latency: 984
+Maximal Latency: 2103
+Average Latency: 1933.16831
+P90 Latency: 2074
+Date test Finish : 1-4-2024 23-27-24
+Directory 'result/second_test/ws_1000' already exists.
+Data saved to result/second_test/ws_1000/ws_1000_raw_response_time_output_1714580844376.csv
+
+Date test taken : 1-4-2024 23-28-11
+Time taken to enstablish 1000 connection: 1284
+Total connection : 1000
+Total Request: 100000
+Request Success: 100%
+Minimal Latency: 1186
+Maximal Latency: 2137
+Average Latency: 1971.74173
+P90 Latency: 2102
+Date test Finish : 1-4-2024 23-28-15
+Directory 'result/second_test/ws_1000' already exists.
+Data saved to result/second_test/ws_1000/ws_1000_raw_response_time_output_1714580895842.csv

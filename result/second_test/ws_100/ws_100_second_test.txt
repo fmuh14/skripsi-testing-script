@@ -1,0 +1,35 @@
+Date test taken : 1-4-2024 23-8-1
+Time taken to enstablish 100 connection: 103
+Total connection : 100
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 124
+Maximal Latency: 490
+Average Latency: 273.6037
+P90 Latency: 438
+Date test Finish : 1-4-2024 23-8-3
+Data saved to result/ws_100_raw_response_time_output_1714579683449.csv
+
+Date test taken : 1-4-2024 23-8-52
+Time taken to enstablish 100 connection: 101
+Total connection : 100
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 127
+Maximal Latency: 744
+Average Latency: 275.9844
+P90 Latency: 272
+Date test Finish : 1-4-2024 23-8-54
+Data saved to result/ws_100_raw_response_time_output_1714579734417.csv
+
+Date test taken : 1-4-2024 23-9-47
+Time taken to enstablish 100 connection: 91
+Total connection : 100
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 124
+Maximal Latency: 777
+Average Latency: 273.395
+P90 Latency: 274
+Date test Finish : 1-4-2024 23-9-48
+Data saved to result/ws_100_raw_response_time_output_1714579788928.csv

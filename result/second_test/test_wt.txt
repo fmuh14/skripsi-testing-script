@@ -1,0 +1,51 @@
+Date test taken : 2-4-2024 11-38-7
+Time taken to enstablish 100 connection: 436
+Total connection : 100
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 473
+Maximal Latency: 2794
+Average Latency: 1896.0363
+P90 Latency: 2646
+Date test Finish : 2-4-2024 11-38-11
+Directory 'result/second_test/wt_100' already exists.
+Data saved to result/second_test/wt_100/test_wt_100_raw_response_time_output_1714624691413.csv
+
+Date test taken : 2-4-2024 11-41-27
+Time taken to enstablish 200 connection: 528
+Total connection : 200
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 629
+Maximal Latency: 4147
+Average Latency: 2272.3082
+P90 Latency: 3435
+Date test Finish : 2-4-2024 11-41-32
+Directory 'result/second_test/wt_200' already exists.
+Data saved to result/second_test/wt_200/test_wt_200_raw_response_time_output_1714624892574.csv
+
+Date test taken : 2-4-2024 11-42-16
+Time taken to enstablish 500 connection: 1272
+Total connection : 500
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 842
+Maximal Latency: 4216
+Average Latency: 2352.0758
+P90 Latency: 3173
+Date test Finish : 2-4-2024 11-42-21
+Directory 'result/second_test/wt_500' already exists.
+Data saved to result/second_test/wt_500/test_wt_500_raw_response_time_output_1714624941408.csv
+
+Date test taken : 2-4-2024 11-43-15
+Time taken to enstablish 1000 connection: 2613
+Total connection : 1000
+Total Request: 10000
+Request Success: 100%
+Minimal Latency: 873
+Maximal Latency: 3632
+Average Latency: 2631.6726
+P90 Latency: 3459
+Date test Finish : 2-4-2024 11-43-20
+Directory 'result/second_test/wt_1000' already exists.
+Data saved to result/second_test/wt_1000/test_wt_1000_raw_response_time_output_1714625000424.csv
